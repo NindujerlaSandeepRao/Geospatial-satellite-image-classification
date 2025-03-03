@@ -23,4 +23,4 @@ This project focuses on classifying geospatial satellite images using deep learn
 
 ## Results
 - Classification performance is analyzed using confusion matrices.
-- Model accuracy and loss are plotted for comparison.
+- Model accuracy and loss are plotted for comparison,which helps for the better visualization of the results obtained .
